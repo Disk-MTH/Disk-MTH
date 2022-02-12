@@ -1,5 +1,3 @@
-[![Disk_MTH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disk-MTH)](https://github.com/Disk-MTH/Disk_MTH)
-
 ### <p align="center">⚙️  My statistics  ⚙️</p>
 <br>
 <p align="center">
@@ -15,5 +13,5 @@
 ### <p align="center">👀  Visitors  👀</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/billythegoat356/count.svg" />
+  <img src="https://profile-counter.glitch.me/Disk-MTH/count.svg" />
 </p>
