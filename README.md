@@ -4,6 +4,10 @@ I am an 18 year old apprentice developer. I love python and java development. I 
 
 I am co-owner of [Ilurya](https://ilurya.com), a structure offering hosting and game servers. We try to offer services at the best value for money but as we started from nothing, everything is not yet complete so if you want to come and help the project join our [discord](https://discord.gg/bTfwpZaNVp)!
 
+If you want to work with me on a project (whether you want to help me or you want help) feel free to contact me via discord `Disk_MTH#7625`. I am normally very active and I will be happy to collaborate with other people.
+
+/!\ I am French and my English is not very great, so it may be that at the beginning I am a little embarrassed if I have to understand at the same time notions of programming and English ^^.
+
 -----
 
 ### <p align="center">💻 The software I use 💻</p>
