@@ -2,7 +2,7 @@
 
 I am an 18 year old apprentice developer. I love python, java development and I'm new to web as well as SQL.
 
-I am co-owner of [Ilurya](https://ilurya.com), a structure offering hosting and game servers. We try to offer services at the best value for money but as we started from nothing everything is not yet complete so if you want to come and help the project join our [discord](https://discord.gg/bTfwpZaNVp)!
+I am co-owner of [Ilurya](https://ilurya.com), a structure offering hosting and game servers. We try to offer services at the best value for money but as we started from nothing, everything is not yet complete so if you want to come and help the project join our [discord](https://discord.gg/bTfwpZaNVp)!
 
 -----
 
