@@ -1,8 +1,8 @@
 ### <p align="center">👾  Presentation  👾</p>
 
-I am an 18 year old apprentice developer. I love python and java development. I am learning android, web and SQL development. I also like 3D modeling.
+I am an 18 year old apprentice developer. I love java and python development. I am learning android, web and SQL development. I also like 3D modeling.
 
-I am co-owner of [Ilurya](https://ilurya.com), a structure offering hosting and game servers. We try to offer services at the best value for money but as we started from nothing, everything is not yet complete so if you want to come and help the project join our [discord](https://discord.gg/bTfwpZaNVp)!
+On my github, many of my java projects are private so don't be surprised to see a lot of python in my stats when I mainly develop in java.
 
 If you want to work with me on a project (whether you want to help me or you want help) feel free to contact me via discord `Disk_MTH#7625`. I am normally very active and I will be happy to collaborate with other people.
 
