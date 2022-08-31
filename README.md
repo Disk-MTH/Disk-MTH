@@ -6,6 +6,10 @@ On my github, many of my java projects are private so don't be surprised to see 
 
 If you want to work with me on a project (whether you want to help me or you want help) feel free to contact me via discord `Disk_MTH#7625`. I am normally very active and I will be happy to collaborate with other people.
 
+I take orders (paid only) to carry out your Java projects (libraries, applications, forge mod, fabric mod & MCP client...), or Python (libraries, applications...). To order, come in Discord private message (`Disk_MTH#7625`) and please provide me with a specification (if you don't have one, I can help you write it in voice chat). Once I have knowledge of the entire project, I will give you my price (it will also be necessary to discuss the mode of payment, the payment deadline, the deadline ...) and it is up to you to decide to place the order or not.
+
+I also do Forge mod obfuscation (with several different layers of obfuscation according to your requests), but for this, I have to look on a case-by-case basis and therefore in voice with you.
+
 /!\ I am French and my English is not very great, so it may be that at the beginning I am a little embarrassed if I have to understand at the same time notions of programming and English ^^.
 
 -----
