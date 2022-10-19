@@ -28,7 +28,7 @@ I also do Forge mod obfuscation (with several different layers of obfuscation ac
 | <img align="center" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> | Visual studio code                | Web development                       |
 | <img align="center" width="45px" src="https://findicons.com/files/icons/2561/1st_mx_is_4c/256/notepad.png" />                                                                    | Notepad++                         | Advanced file editing (json, yml ...) |
 | <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png" />                                                                | Blockbench                        | 3D models making                      |
-| <img align="center" width="60px" src="https://www.form2fab.com/wp-content/uploads/2019/11/logo-fusion-360.png" />                                                                | Fusion 360 (unlicensed version)   | 3D modeling                           |
+| <img align="center" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOTRKxvF8uFu0G5pjFqfKNfU9OcqA5fo37g&usqp=CAU" />                                                                | Fusion 360 (unlicensed version)   | 3D modeling                           |
 
 </div>
 
