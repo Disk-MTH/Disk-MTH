@@ -27,10 +27,10 @@ I also do Forge mod obfuscation (with several different layers of obfuscation ac
 | <img align="center" width="50px" src="https://findicons.com/files/icons/2561/1st_mx_is_4c/256/notepad.png" />                                                       | Notepad++                       | Advanced file editing (json, yml ...)                 |
 | <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png" />                                                   | Blockbench                      | 3D models making                                      |
 | <img align="center" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOTRKxvF8uFu0G5pjFqfKNfU9OcqA5fo37g&usqp=CAU" />                       | Fusion 360 (unlicensed version) | 3D modeling                                           |
-| <img align="center" width="50px" src="https://miro.medium.com/max/700/0*oRRpMJ9XqkRnYLhW.png" />                                                                    | Github Copilot                  | Development assistance and advanced auto-completion ❤️ |
+| <img align="center" width="50px" src="https://miro.medium.com/max/700/0*oRRpMJ9XqkRnYLhW.png" />                                                                    | Github Copilot                  | Development assistance and advanced auto-completion ❤️|
 | <img align="center" width="50px" src="https://devtoys.app/img/hero-logo.png" />                                                                                     | DevToys                         | Lots of little things                                 |
 | <img align="center" width="50px" src="https://static-s.aa-cdn.net/img/gp/20600007413816/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU?v=1" /> | Figma                           | UI/UX design                                          |
-| <img align="center" width="50px" src="https://github.com/devlinx9/muon-ssh/blob/develop/muon-app/src/exe/muonssh.ico" />                                            | Muon SSH                        | SSH/SFTP acess                                        |
+| <img align="center" width="50px" src="https://taiwebs.com/upload/icons/mobaxterm-professional220-220.jpg" />                                                        | MobaXterm                       | SSH/SFTP acess                                        |
    
 </div>
 
