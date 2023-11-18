@@ -23,6 +23,7 @@ As part of my studies I am looking for an internship from the beginning of April
 | <img align="center" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOTRKxvF8uFu0G5pjFqfKNfU9OcqA5fo37g&usqp=CAU" />                       | Fusion 360 | 3D modeling                                           |
 | <img align="center" width="50px" src="https://miro.medium.com/max/700/0*oRRpMJ9XqkRnYLhW.png" />                                                                    | Github Copilot ❤️              | Development assistance and advanced auto-completion   |
 | <img align="center" width="50px" src="https://static-s.aa-cdn.net/img/gp/20600007413816/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU?v=1" /> | Figma                           | UI/UX design                                          |
+| <img align="center" width="50px" src="https://www.vhv.rs/dpng/d/57-571004_docker-logo-hd-png-download.png" />                                                        | Docker                       | One click deploy                                       |
 | <img align="center" width="50px" src="https://taiwebs.com/upload/icons/mobaxterm-professional220-220.jpg" />                                                        | MobaXterm                       | SSH/SFTP acess                                        |
    
 </div>
