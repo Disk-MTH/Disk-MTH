@@ -1,16 +1,10 @@
 ### <p align="center">👾  Presentation  👾</p>
 
-I am an 18 year old apprentice developer. I love java and python development. I am learning android, web and SQL development. I also like 3D modeling.
+I am a 19 year old french student at the [CESI engineering school](https://cesi.fr). 
 
-On my github, many of my java projects are private so don't be surprised to see a lot of python in my stats when I mainly develop in java.
+If you want to contact me or work with me, go through one of the social media that you will find on my [website](https://diskmth.fr)
 
-If you want to work with me on a project (whether you want to help me or you want help) feel free to contact me via discord `Disk_MTH#7625`. I am normally very active and I will be happy to collaborate with other people.
-
-I take orders (paid only) to carry out your Java projects (libraries, applications, forge mod, fabric mod & MCP client...), or Python (libraries, applications...). To order, come in Discord private message (`Disk_MTH#7625`) and please provide me with a specification (if you don't have one, I can help you write it in voice chat). Once I have knowledge of the entire project, I will give you my price (it will also be necessary to discuss the mode of payment, the payment deadline, the deadline ...) and it is up to you to decide to place the order or not.
-
-I also do Forge mod obfuscation (with several different layers of obfuscation according to your requests), but for this, I have to look on a case-by-case basis and therefore in voice with you.
-
-/!\ I am French and my English is not very great, so it may be that at the beginning I am a little embarrassed if I have to understand at the same time notions of programming and English ^^.
+As part of my studies I am looking for an internship from the beginning of April for a period of 12 to 15 weeks (in IT of course ^^), if you are a recruiter, contact me via [diskmth@outlook.fr](mailto:diskmth@outlook.fr) to exchange and have my CV
 
 -----
 
@@ -40,7 +34,6 @@ I also do Forge mod obfuscation (with several different layers of obfuscation ac
 <br/>
 <p align="center">
    <img align ="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Disk-MTH&show_icons=true&count_private=true&include_all_commits=true&title_color=FF0000&text_color=9B0101&icon_color=ED9A09&bg_color=000d&hide_border=true&custom_title=Test"/>
-   <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disk-MTH&title_color=FF0000&text_color=9B0101&icon_color=C42765&bg_color=000000&hide_border=true&hide=vbscript&card_width=300&langs_count=3"/>
 </p>
 
 -----
