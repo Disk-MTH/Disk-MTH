@@ -1,6 +1,6 @@
 ### <p align="center">👾  Presentation  👾</p>
 
-I am a 19 year old french student at the [CESI engineering school](https://cesi.fr). 
+I am a 19 year old french student at the [CESI engineering school](https://cesi.fr) passionate by IT and new technologies
 
 If you want to contact me or work with me, go through one of the social media that you will find on my [website](https://diskmth.fr)
 
