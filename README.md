@@ -1,12 +1,10 @@
 ### <p align="center">👾  Presentation  👾</p>
 
-I am a 19 year old french student at the [CESI engineering school](https://cesi.fr) passionate by IT and new technologies
+I am a 20 year old french student at the [CESI engineering school](https://cesi.fr) passionate by IT and new technologies
 
 All my biggest projects are private because they are either personal code or (for the most part) customer orders. Don't be surprised to see me active in commits, but not to see the associated projects
 
 If you want to contact me or work with me, go through one of the social media that you will find on my [website](https://diskmth.fr) (new version is on developpment, data can be outdated)
-
-As part of my studies I am looking for an internship from the beginning of April for a period of 12 to 15 weeks (in IT of course ^^), if you are a recruiter, contact me via [diskmth@outlook.fr](mailto:diskmth@outlook.fr) to exchange and have my CV
 
 -----
 
