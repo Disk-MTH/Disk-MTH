@@ -35,7 +35,7 @@ As part of my studies I am looking for an internship from the beginning of April
 ### <p align="center">📊  My statistics  📊</p>
 <br/>
 <p align="center">
-   <img align ="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Disk-MTH&show_icons=true&count_private=true&include_all_commits=true&title_color=FF0000&text_color=9B0101&icon_color=ED9A09&bg_color=000d&hide_border=true&custom_title=Test"/>
+   <img align ="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Disk-MTH&show_icons=true&count_private=true&include_all_commits=true&title_color=FF0000&text_color=9B0101&icon_color=ED9A09&bg_color=000d&hide_border=true"/>
 </p>
 
 -----
