@@ -6,6 +6,8 @@ All my biggest projects are private because they are either personal code or (fo
 
 If you want to contact me or work with me, go through one of the social media that you will find on my [website](https://diskmth.fr) (new version is on developpment, data can be outdated)
 
+I'm also looking for a 14 weeks long internship between January 13th and April 18th. For any further information, check my [linkedin](https://www.linkedin.com/in/mathieu-gillet-17a642295)
+
 -----
 
 ### <p align="center">💻 The software I use 💻</p>
@@ -22,7 +24,7 @@ If you want to contact me or work with me, go through one of the social media th
 | <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png" />                                                   | Blockbench                      | 3D models making                                      |
 | <img align="center" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOTRKxvF8uFu0G5pjFqfKNfU9OcqA5fo37g&usqp=CAU" />                       | Fusion 360 | 3D modeling                                           |
 | <img align="center" width="50px" src="https://miro.medium.com/max/700/0*oRRpMJ9XqkRnYLhW.png" />                                                                    | Github Copilot ❤️              | Development assistance and advanced auto-completion   |
-| <img align="center" width="50px" src="https://static-s.aa-cdn.net/img/gp/20600007413816/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU?v=1" /> | Figma                           | UI/UX design                                          |
+| <img align="center" width="50px" src="https://s3-alpha.figma.com/hub/file/1166690750/85f69649-5387-44c2-ba45-81ae13812e36-cover.png" /> | Figma                           | UI/UX design                                          |
 | <img align="center" width="50px" src="https://www.vhv.rs/dpng/d/57-571004_docker-logo-hd-png-download.png" />                                                        | Docker                       | One click deploy                                       |
 | <img align="center" width="50px" src="https://taiwebs.com/upload/icons/mobaxterm-professional220-220.jpg" />                                                        | MobaXterm                       | SSH/SFTP acess                                        |
    
