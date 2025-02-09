@@ -1,37 +1,44 @@
 ### <p align="center">👾 Presentation 👾</p>
 
-I am a 20 year old french student at the [CESI engineering school](https://cesi.fr) passionate by IT and new
-technologies
+I am a 21-year-old French student at the [CESI engineering school](https://cesi.fr) passionate about IT and engineering.
+I
+am currently in my 3rd year of a 5-year-long apprenticeship in IT engineering. I am also a self-taught developer and
+I have been coding for 6 years now in various languages in various technologies because I love to discover new things
+and be able to adapt to any situation.
 
-All my biggest projects are private because they are either personal code or (for the most part) customer orders. Don't
-be surprised to see me active in commits, but not to see the associated projects
+Most my biggest projects are private because they are either personal code or customer orders so don't
+be surprised to see me active in commits but with not so many public repositories.
 
-If you want to contact me or work with me, go through one of the social media that you will find on
-my [website](https://diskmth.fr) (new version is on developpment, data can be outdated)
+I'm looking for a **6-month international internship** in the objective of enhancing my english skills and completing my
+engineering degree. I search manly in these fields, but I'm open to any other proposal:
 
-I'm also looking for a 14 weeks long internship between January 13th and April 18th. For any further information, check
-my [linkedin](https://www.linkedin.com/in/mathieu-gillet-17a642295)
+- Embedded systems (Low-level programming)
+- AI/ML/Data Science
+- Software engineering
+
+If you want to contact or work with me, go through one of the social media that you will find on
+my [website](https://diskmth.fr) or [email me](mailto:diskmth@outlook.fr) to obtain my LinkedIn / resume. \
+PS: My website is in rework, so it may not be up to date.
+
+Thanks for your visit and have a good development!
 
 -----
 
-### <p align="center">💻 The software I use 💻</p>
+### <p align="center">💻 Softwares I use 💻</p>
 
 <br/>
-
-
 <div align="center">
 
-| Logo                                                                                                                                          | Name                     | Usage                                               |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------|
-| <img align="center" width="50px" src="./images/jetbrains.png" />                                                                              | Jetbrains tools suite ❤️ | Development in various languages                    |
-| <img align="center" width="50px" src= "./images/android_studio.png" />                                                                        | Android studio           | Flutter/Android development                         |
-| <img align="center" width="50px" src="https://findicons.com/files/icons/2561/1st_mx_is_4c/256/notepad.png" />                                 | Notepad++                | Advanced file editing (json, yml ...)               |
-| <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png" />                             | Blockbench               | 3D models making                                    |
-| <img align="center" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOTRKxvF8uFu0G5pjFqfKNfU9OcqA5fo37g&usqp=CAU" /> | Fusion 360               | 3D modeling                                         |
-| <img align="center" width="50px" src="https://miro.medium.com/max/700/0*oRRpMJ9XqkRnYLhW.png" />                                              | Github Copilot ❤️        | Development assistance and advanced auto-completion |
-| <img align="center" width="50px" src="https://s3-alpha.figma.com/hub/file/1166690750/85f69649-5387-44c2-ba45-81ae13812e36-cover.png" />       | Figma                    | UI/UX design                                        |
-| <img align="center" width="50px" src="https://www.vhv.rs/dpng/d/57-571004_docker-logo-hd-png-download.png" />                                 | Docker                   | One click deploy                                    |
-| <img align="center" width="50px" src="https://taiwebs.com/upload/icons/mobaxterm-professional220-220.jpg" />                                  | MobaXterm                | SSH/SFTP acess                                      |
+| Logo                                                                                                          | Name                     | Usage                                 |
+|---------------------------------------------------------------------------------------------------------------|--------------------------|---------------------------------------|
+| <img style="width: 50px; height: 50px;" align=center src="./images/jetbrains.png" alt="Jetbrains"/>           | Jetbrains tools suite ❤️ | Development in various languages      |
+| <img style="width: 50px;" align=center src="./images/github_copilot.png" alt="Github Copilot"/>               | Github Copilot ❤️        | Development speed assistance          |
+| <img style="width: 50px; height: 50px;" align=center src="./images/android_studio.png" alt="Android studio"/> | Android studio           | Flutter/Android development           |
+| <img style="width: 50px; height: 50px;" align=center src="./images/sublime_text.png" alt="Sublime Text"/>     | Sublime Text             | Advanced file editing (json, yml ...) |
+| <img style="width: 50px; height: 50px;" align=center src="./images/fusion_360.png" alt="Fustion 360"/>        | Fusion 360               | 3D modeling                           |
+| <img style="width: 50px;" align=center src="./images/docker.png" alt="Docker"/>                               | Docker                   | Flawless deployment                   |
+| <img width="50px; height: 50px;" align=center src="./images/moba_x_term.png" alt="MobaXTerm"/>                | MobaXterm                | SSH/SFTP access                       |
+| <img width="50px; height: 50px;" align=center src="./images/figma.png" alt="Figma"/>                          | Figma                    | Mock UI/UX design                     |
 
 </div>
 
@@ -39,6 +46,7 @@ my [linkedin](https://www.linkedin.com/in/mathieu-gillet-17a642295)
 
 ### <p align="center">📊 My statistics 📊</p>
 
+<br/>
 <p align="center">
    <img align ="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Disk-MTH&show_icons=true&count_private=true&include_all_commits=true&title_color=FF0000&text_color=9B0101&icon_color=ED9A09&bg_color=000d&hide_border=true" alt="Statistics"/>
 </p>
@@ -47,6 +55,7 @@ my [linkedin](https://www.linkedin.com/in/mathieu-gillet-17a642295)
 
 ### <p align="center">👀 Visitors 👀</p>
 
+<br/>
 <p align="center">
    <img src="https://profile-counter.glitch.me/Disk-MTH/count.svg" alt="Visitors"/>
 </p>
